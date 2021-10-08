@@ -13,5 +13,10 @@ When the keyboard is appered, If a text field is hidden behind it , move the scr
 ### Confirm deletion of a cell of table view
 When you tap a delete button to delete a phone number or email address, a delete confirmation button slides out. If you tap the button, the record will be deleted, and if you tap the area other than the button, the process will be cancelled.
 
+<img src="http://mikomokaru.sakura.ne.jp/data/93/address_book3.png" alt="book3" title="book3" width="250">
+
+
 ### Enable / disable Update Button
 When the text is changed, it is compared with the initially displayed text. Enable Update Button on Navigation Bar when there is a change. If the result of changing the text is the same as the initial display, the button is disabled because there is no need to update.
+
+<img src="http://mikomokaru.sakura.ne.jp/data/93/address_book4.png" alt="book4" title="book4" width="250">
