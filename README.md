@@ -10,3 +10,5 @@ When the keyboard is appered, If a text field is hidden behind it , move the scr
 
 <img src="http://mikomokaru.sakura.ne.jp/data/93/address_book2.png" alt="book2" title="book2" width="250">
 
+### Confirm deletion of a cell of table view
+When you tap a delete button to delete a phone number or email address, a delete confirmation button slides out. If you tap the button, the record will be deleted, and if you tap the area other than the button, the process will be cancelled.
