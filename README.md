@@ -6,3 +6,7 @@ I made an app that behaves like iPhone app Contacts.It displays contacts. You ca
 
 ### Scroll and display an input control hidden behind the keyboard
 
+When the keyboard is appered, If a text field is hidden behind it , move the scroll view upwards to display the text field so you can enter text.
+
+<img src="http://mikomokaru.sakura.ne.jp/data/93/address_book2.png" alt="book2" title="book2" width="250">
+
