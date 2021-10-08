@@ -22,3 +22,8 @@ When you tap a delete button to delete a phone number or email address, a delete
 When the text is changed, it is compared with the initially displayed text. Enable Update Button on Navigation Bar when there is a change. If the result of changing the text is the same as the initial display, the button is disabled because there is no need to update.
 
 <img src="http://mikomokaru.sakura.ne.jp/data/93/address_book4.png" alt="book4" title="book4" width="250">
+
+### View structure diagram（ViewControllerDetail）
+
+<img src="http://mikomokaru.sakura.ne.jp/data/93/view_structure.png.png" alt="view_structure" title="view_structure" width="600">
+
