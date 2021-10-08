@@ -25,5 +25,5 @@ When the text is changed, it is compared with the initially displayed text. Enab
 
 ### View structure diagram（ViewControllerDetail）
 
-<img src="http://mikomokaru.sakura.ne.jp/data/93/view_structure.png.png" alt="view_structure" title="view_structure" width="600">
+<img src="http://mikomokaru.sakura.ne.jp/data/93/view_structure.png" alt="view_structure" title="view_structure" width="600">
 
